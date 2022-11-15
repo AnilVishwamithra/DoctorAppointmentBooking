@@ -22,8 +22,8 @@ The user will log in to his account with the details he provided while registeri
   2. Age of the patient 
   3. Gender of the patient 
 	After booking the appointment “appointment booking is successful" message will pop up and the user will go to the patient menu.
-  2.1.2 Log Out: The patient selects log out, and then he will be redirected to the main menu.
-  2.2 Registration:
+  1.1.2 Log Out: The patient selects log out, and then he will be redirected to the main menu.
+  1.2 Registration:
 	If the user is not registered already, then he will have to register first. While doing the registration, he will be asked for his name, age, mobile number, and password. After registration, the user will be able to log in with his ID (mobile number) and password.
  
 2. Admin: 
